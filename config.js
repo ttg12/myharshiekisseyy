@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "you're my Laadu Kodu, my cutiepie, i love love love youuu 🎉💝💖💝💓",
-        message: "I really really love you too much, it's a lil embarassing but i'm kind of crazy about you",
+        title: "you're my Laadu Kodu, my cutiepie 🎉💝💖💝💓",
+        message: "I really really love you too much, dont ever doubt that!!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
