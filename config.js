@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "for the one and only love and 💝",
+    pageTitle: "for the one and only love, the one i love the most 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
